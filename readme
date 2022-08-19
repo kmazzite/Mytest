@@ -1,0 +1,18 @@
+Directorio de prueba creado con git.
+Ya tengo usuario en git:
+git config --global user.name "kmazzite"
+git config --global user.email "kmazzite@gmail.com
+
+La info la saque de la pagina:
+https://blog.desdelinux.net/guia-rapida-para-utilizar-github/"
+
+Antes Instale git:
+sudo apt-get install git
+
+Y cree una carpeta llamada Mytest usando el comando init de git 
+en la consola:
+git init Mytest
+
+Para agregar archivos, al proyecto usar:
+git add readme
+(asi agrego este readme
